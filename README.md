@@ -6,7 +6,7 @@ A simple and responsive **QR Code Component** built using **HTML and CSS**. This
 
 ## Preview
 
-![QR Code Component Preview](./images/image-qr-code.png)
+![QR Code Component Preview](./design/desktop-design.jpg)
 
 ---
 
@@ -45,9 +45,7 @@ A simple and responsive **QR Code Component** built using **HTML and CSS**. This
 
 ## Live Demo
 
-👉 Add your live site link here  
-Example:  
-https://your-username.github.io/qr-code-component/
+[Project Website link](https://qr-code-codeharman.netlify.app/)
 
 ---
 
@@ -62,5 +60,5 @@ https://your-username.github.io/qr-code-component/
 
 **Harman**
 
-- LinkedIn: https://www.linkedin.com/in/codeharman/
+- [LinkedIn](https://www.linkedin.com/in/codeharman/)
 - Frontend Mentor: https://www.frontendmentor.io/profile/codeharman
